@@ -7,8 +7,8 @@
 
   Assalomu alaykum! Mening ismim Orif. O'zbekiston Milliy universitetining Amaliy matematika fakultetini tugatganman. 
 Data sciense bo'yicha mohirdev.uz platformasida yarim yilga yaqin o'qidim.
-Undan oldim ham IT yo'nalishi bo'yicha ba'zi yo'nalishlarda asosiy bilimlarni olganman.
-Data analitika bo'yicha ish topib malaka oshirish niyatidaman hozir.
-Kelajakda rejalarim data sciense bo'yicha sifatli mutaxasis bo'lish.
+Undan oldim ham IT yo'nalishi bo'yicha asosiy bilimlarni olganman.
+Data analitika bo'yicha ish topib malaka oshirish niyatidaman.
+Maqsadim Data sciense bo'yicha sifatli mutaxasis bo'lish.
 O'zbekistonda tibbiyot sohasida ma'lumotlarni tizimlashtirish va markazlashtirish harakatlarida qatnashishni xohlardim.
 
