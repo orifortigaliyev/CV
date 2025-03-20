@@ -1,5 +1,5 @@
 Orif Ortigaliyev – Data Analyst 📊  
-👋 Salom! Men Orif, Data Analyst bo‘lish yo‘lida harakat qilyapman. Hozirda O‘zbekiston Milliy universitetining "Amaliy Matematika" yo‘nalishida 4-kurs kechki talabasiman. 
+👋 Salom! Men Orif, Data Analyst bo‘lish yo‘lida harakat qilyapman. Hozirda O‘zbekiston Milliy universitetining "Amaliy Matematika" yo‘nalishida 4-kurs talabasiman. 
 
 🚀 Men Haqimda    
 ✅ Data Analysis bo‘yicha bilimga egaman  
