@@ -1,5 +1,5 @@
 Orif Ortigaliyev – Data Analyst 📊  
-👋 Salom! Men Orif, Data Analyst bo‘lish yo‘lida harakat qilayotgan 4-kurs talabasiman. Hozirda O‘zbekiston Milliy Universitetining "Amaliy Matematika" yo‘nalishida tahsil olyapman. Shu bilan birga hippo.uz platformasida texnik yordam bo‘yicha ishlayman.  
+👋 Salom! Men Orif, Data Analyst bo‘lish yo‘lida harakat qilyapman. Hozirda O‘zbekiston Milliy universitetining "Amaliy Matematika" yo‘nalishida 4-kurs kechki talabasiman. 
 
 🚀 Men Haqimda    
 ✅ Data Analysis bo‘yicha bilimga egaman  
@@ -10,15 +10,15 @@ Orif Ortigaliyev – Data Analyst 📊
 📊 Ish Tajribam va Ta’lim  
 🎓 Ta’lim  
 
-Amaliy Matematika, O‘zbekiston Milliy Universiteti (kechki ta’lim) 
+Amaliy Matematika, O‘zbekiston Milliy universiteti (kechki ta’lim) 
 Mohirdev Data Science kursi  
 💼 Ish Tajribasi
 
 O‘quv markaz administrator – 2019-2020-yillarda o‘quv markazida administrator bo‘lib ishlaganman  
-Matematika o‘qituvchisi – 2020-2021-yillarda o‘quv markazida matematika fanidan dars berganman  
+Matematika o‘qituvchisi – 2020-2021-yillarda o‘quv markazda matematika fanidan dars berganman  
 
 🔧 Bilim va Ko‘nikmalar  
-🔹 Tahlil va Ma’lumotlar bilan Ishlash: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+🔹 Tahlil va Ma’lumotlar bilan Ishlash: Pandas, NumPy, Matplotlib, Seaborn, Power BI(o'rganish jarayonidaman)  
 🔹 Ma’lumotlar bazasi: SQL, PostgreSQL  
 🔹 Mashinalarni o‘rganish: Scikit-learn  
 🔹 Dasturlash: Python, HTML, CSS  
