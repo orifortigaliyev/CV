@@ -14,20 +14,20 @@ Amaliy Matematika, O‘zbekiston Milliy Universiteti (kechki ta’lim)
 Mohirdev Data Science kursi  
 💼 Ish Tajribasi
 
-O‘quv markaz administrator – 2019-2020-yillarda o‘quv markazida administrator bo‘lib ishlaganman
-Matematika o‘qituvchisi – 2020-2021-yillarda o‘quv markazida matematika fanidan dars berganman
+O‘quv markaz administrator – 2019-2020-yillarda o‘quv markazida administrator bo‘lib ishlaganman  
+Matematika o‘qituvchisi – 2020-2021-yillarda o‘quv markazida matematika fanidan dars berganman  
 
-🔧 Bilim va Ko‘nikmalar
-🔹 Tahlil va Ma’lumotlar bilan Ishlash: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-🔹 Ma’lumotlar bazasi: SQL, PostgreSQL
-🔹 Mashinalarni o‘rganish: Scikit-learn
-🔹 Dasturlash: Python, HTML, CSS
+🔧 Bilim va Ko‘nikmalar  
+🔹 Tahlil va Ma’lumotlar bilan Ishlash: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+🔹 Ma’lumotlar bazasi: SQL, PostgreSQL  
+🔹 Mashinalarni o‘rganish: Scikit-learn  
+🔹 Dasturlash: Python, HTML, CSS  
 
-📂 Muhim Loyihalar
-🔹 Tashkent Housing Price Prediction – Toshkentdagi uy narxlarini bashorat qiluvchi model
+📂 Muhim Loyihalar  
+🔹 Tashkent Housing Price Prediction – Toshkentdagi uy narxlarini bashorat qiluvchi model  
 
-📫 Mening Aloqa Ma’lumotlarim
-📍 GitHub: orifortigaliyev
-📍 Telegram: @o_ortigaliyev
-📍 Email: oortigaliyev78@gmail.com
+📫 Mening Aloqa Ma’lumotlarim  
+📍 GitHub: orifortigaliyev  
+📍 Telegram: [@o_ortigaliyev](https://t.me/o_ortigaliyev)  
+📍 Email: oortigaliyev78@gmail.com  
 
