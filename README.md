@@ -10,7 +10,7 @@ Orif Ortigaliyev – Data Analyst 📊
 📊 Ish Tajribam va Ta’lim  
 🎓 Ta’lim  
 
-Amaliy Matematika, O‘zbekiston Milliy universiteti (kechki ta’lim) 
+Amaliy Matematika, O‘zbekiston Milliy universiteti (kechki ta’lim)   
 Mohirdev Data Science kursi  
 💼 Ish Tajribasi
 
